@@ -1,6 +1,6 @@
 # Project - Mr Buggy7
 
-The main goal of this project is to test application with focus on functionality of the app and provide information about quality of the product.
+The main goal of this project to functional test of the Mr Buggy7 app and provide information about quality of the product.
 Project assume manual testing of the app.
 For testing process, there were used Testlink to create and maintain test scenarios and cases, Jira for incident management, Pickpik to capture screenshots and Screencast-O-matic to capture video.
 
