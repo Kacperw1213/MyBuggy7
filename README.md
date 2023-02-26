@@ -1,10 +1,10 @@
-# Project - Mr Buggy7
+# 📄 Project - Mr Buggy7
 
 The main goal of this project is functional tests of the Mr Buggy7 app and provide information about quality of the product.
 Project assume manual testing of the app.
 For testing process, there were used Testlink to create and maintain test scenarios and cases, Jira for incident management, Pickpik to capture screenshots and Screencast-O-matic to capture video.
 
-## Description
+## ✏️ Description
 
 - Testing of application Mr Buggy7 started from creating test plan. Test plan assumed that manual testing of app will be made by two testers, collaterally in two interations; 
 - In Testlink there were created all test scanarios and cases which should be executed according to functional specification. There were added also test cases where bugs often occurs. For purpose of the project testlink specification and test plan were captured; 
@@ -12,7 +12,7 @@ For testing process, there were used Testlink to create and maintain test scenar
 - The detailed execution was made in Excel for 5 scanarios and 16 test cases;
 - As a result of testing process, the summary report was created.
 
-## Attachments
+## 📚 Attachments
 
 - [Test plan](https://drive.google.com/file/d/13A7TRdmWdvcXpCwehsRRhG4MgrFqKaYq/view?usp=sharing)
 - [Testlink test specification](https://drive.google.com/file/d/18fbIwCf_hwKcKkx-HzgtzGCX4KLRRZYW/view?usp=sharing)
