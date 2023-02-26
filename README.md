@@ -16,3 +16,6 @@ For testing process, there were used Testlink to create and maintain test scenar
 
 - [Testlink test specification](https://drive.google.com/file/d/18fbIwCf_hwKcKkx-HzgtzGCX4KLRRZYW/view?usp=sharing)
 - [Test scenarios and test cases - execution](https://docs.google.com/spreadsheets/d/1YpdVq54sPBOaJqvGhfrTO7uKpf_GKX76wCrb6UEUtbc/edit?usp=sharing)
+- [Jira  - list of story](https://drive.google.com/file/d/13H_adxlvcnyrOJJqkQCtiB7H_nCZizKL/view?usp=sharing)
+- [Jira - list of bugs](https://drive.google.com/file/d/1mDyaoZ4RuEkHS8Tx-7ZIb7I4q_0al2kY/view?usp=sharing)
+- [test](https://kacperwos1996.atlassian.net/jira/software/projects/MB7/boards/1)
