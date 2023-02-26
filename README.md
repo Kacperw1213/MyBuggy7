@@ -12,4 +12,6 @@ For testing process, there were used Testlink to create and maintain test scenar
 - The detailed execution was made in Excel for 5 scanarios and 16 test cases;
 - As a result of testing process, the summary report was created.
 
+## Attachments
 
+- [Testlink test specification](https://drive.google.com/file/d/18fbIwCf_hwKcKkx-HzgtzGCX4KLRRZYW/view?usp=sharing)
