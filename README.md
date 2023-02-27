@@ -14,7 +14,7 @@ For testing process, there were used Testlink to create and maintain test scenar
 
 ## 📚 Attachments
 
-- [Test plan](https://drive.google.com/file/d/13A7TRdmWdvcXpCwehsRRhG4MgrFqKaYq/view?usp=sharing)
+- [Test plan](https://drive.google.com/file/d/1oZyOCzSTAQUomzGxmNlLv1C8bXXdNrox/view?usp=sharing)
 - [Test scenarios and test cases - execution](https://docs.google.com/spreadsheets/d/1YpdVq54sPBOaJqvGhfrTO7uKpf_GKX76wCrb6UEUtbc/edit?usp=sharing)
 - [Bug report](https://docs.google.com/spreadsheets/d/1A6yq3ukBEiTrd9KegCsvUO4G3U9nlpDN_XPb5rKuiMc/edit?usp=sharing)
 - [Final Report](https://drive.google.com/file/d/1a0enUDa7hlSaxWMD5extL9O0bEmW5jSR/view?usp=sharing)
